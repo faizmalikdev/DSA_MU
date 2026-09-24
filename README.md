@@ -39,14 +39,39 @@ I will continuously update this repository as I learn new concepts and solve pro
 
 > **Learn → Understand → Practice → Improve**
 
-💻 Language
+# 🚀 DSA in C++
 
-C++
+Welcome to my **Data Structures and Algorithms (DSA)** learning repository.
+
+This repository contains my **DSA notes, concepts, patterns, problem-solving approaches, and C++ solutions** that I learn during my DSA training and self-study.
+
+The goal is to build strong problem-solving skills and prepare for **coding interviews and competitive programming**.
+
+---
+## 🧠 Problem-Solving Approach
+
+For every problem, I try to follow this process:
+
+1. Understand the problem
+2. Identify the pattern
+3. Think of the brute-force approach
+4. Analyze time and space complexity
+5. Find an optimized approach
+6. Implement the solution in C++
+7. Test with different cases
+8. Note down the key intuition
+
+---
+
+## 💻 Language
+
+**C++**
 
 I use C++ along with the STL for solving DSA problems.
 
 Important STL components I practice:
 
+```text
 vector
 string
 array
@@ -58,7 +83,13 @@ set
 unordered_set
 map
 unordered_map
-📂 Repository Structure
+```
+
+---
+
+## 📂 Repository Structure
+
+```text
 DSA-CPP/
 │
 ├── 01-Basics/
@@ -77,34 +108,49 @@ DSA-CPP/
 ├── 14-Dynamic-Programming/
 │
 └── README.md
-📈 My DSA Progress
+```
+
+---
+
+## 📈 My DSA Progress
 
 I regularly update this repository as I learn new concepts and solve new problems.
 
-Topic	Status
-Basics & Complexity	🔄 Learning
-Arrays	🔄 Learning
-Two Pointers	🔄 Learning
-Sliding Window	🔄 Learning
-Hashing	🔄 Learning
-Linked List	🔄 Learning
-Stack & Queue	⏳ Upcoming
-Recursion	⏳ Upcoming
-Heap	⏳ Upcoming
-Trees	⏳ Upcoming
-Graphs	⏳ Upcoming
-Dynamic Programming	⏳ Upcoming
-🎯 Goals
-Build strong DSA fundamentals
-Understand common problem-solving patterns
-Improve logical thinking
-Solve problems efficiently
-Prepare for technical interviews
-Become consistent with problem solving
-🔥 Learning Philosophy
+| Topic               | Status      |
+| ------------------- | ----------- |
+| Basics & Complexity | 🔄 Learning |
+| Arrays              | 🔄 Learning |
+| Two Pointers        | 🔄 Learning |
+| Sliding Window      | 🔄 Learning |
+| Hashing             | 🔄 Learning |
+| Linked List         | 🔄 Learning |
+| Stack & Queue       | ⏳ Upcoming  |
+| Recursion           | ⏳ Upcoming  |
+| Heap                | ⏳ Upcoming  |
+| Trees               | ⏳ Upcoming  |
+| Graphs              | ⏳ Upcoming  |
+| Dynamic Programming | ⏳ Upcoming  |
 
-Don't just memorize the solution. Understand the pattern behind it.
+---
+
+## 🎯 Goals
+
+* Build strong DSA fundamentals
+* Understand common problem-solving patterns
+* Improve logical thinking
+* Solve problems efficiently
+* Prepare for technical interviews
+* Become consistent with problem solving
+
+---
+
+## 🔥 Learning Philosophy
+
+> **Don't just memorize the solution. Understand the pattern behind it.**
 
 This repository represents my DSA learning journey, one problem and one concept at a time.
 
+---
+
 ⭐ If you find this repository useful, feel free to explore it and learn along with me.
+ you find this repository useful, feel free to explore it and learn along with me.
